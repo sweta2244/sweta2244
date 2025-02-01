@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1>Hi 👋 I'm Sweta Kumari Dhungel</h1>
+# 💫 About:
 I'm Sweta Kumari Dhungel. A dedicated python developer with practical experience gained through self-driven projects. Skilled in developing REST APIs and building robust web applications using the Django framework. Proficient in version control with Git, with a focus on writing clean, scalable code. Known for a proactive approach to problem-solving and a strong commitment to learning and implementing best practices.
 
 
